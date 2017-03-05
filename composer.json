@@ -1,0 +1,12 @@
+{
+  "name": "pillax/debugger",
+  "description": "Unstable, unsupported package for testing only. Do not use it in real projects.",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kiril Kapustin",
+      "email": "kiril.kapustin@gmail.com"
+    }
+  ]
+}
