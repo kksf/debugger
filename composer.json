@@ -8,5 +8,10 @@
       "name": "Kiril Kapustin",
       "email": "kiril.kapustin@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+      "files": [
+        "src/debug.php"
+      ]
+  }
 }
